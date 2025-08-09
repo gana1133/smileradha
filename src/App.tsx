@@ -128,7 +128,7 @@ const DashboardSection = () => (
       </h2>
 
       <a
-        href="https://formyradha.vercel.app/dashboard"
+        href="https://formyyradha.vercel.app/dashboard"
         target="_blank"
         rel="noopener noreferrer"
         className="px-8 py-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 text-white rounded-3xl shadow-glow hover:scale-110 hover:brightness-110 transition-transform duration-400 flex items-center gap-3 font-semibold tracking-wide"
